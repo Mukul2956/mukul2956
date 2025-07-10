@@ -1,0 +1,4 @@
+max_lines: 5
+exclude:
+  - Mukul2956/Mukul2956  # exclude updates to your profile README itself
+  - Mukul2956/old-repo-name-if-any
