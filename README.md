@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Mukul Singh
 
-<!--
-**Mukul2956/mukul2956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m currently working on: Rubik's Cube Solver with OpenGL
+- 🌱 I’m learning: React, Deep Learning
+- 💬 Ask me about: C++, DSA, AI/ML
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/YOUR-ID)
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
+
+## 🧠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
+
+## 🕒 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
