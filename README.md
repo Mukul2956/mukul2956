@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on: Rubik's Cube Solver with OpenGL
 - 🌱 I’m learning: React, Deep Learning
 - 💬 Ask me about: C++, DSA, AI/ML
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/YOUR-ID)
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/mukul-singh-b83716239/)
 
 ## 🛠️ Tech Stack
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -13,10 +13,10 @@
 ...
 
 ## 📈 GitHub Stats
-![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight)
+![Mukul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mukul2956&show_icons=true&theme=tokyonight)
 
 ## 🧠 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukul2956&layout=compact)
 
 ## 🕒 Recent Activity
 <!--START_SECTION:activity-->
