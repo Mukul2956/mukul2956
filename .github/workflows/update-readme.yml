@@ -1,8 +1,8 @@
 name: Update Recent Activity
 
 on:
-  # schedule:
-  #   - cron: "0 * * * *"  # every hour
+  schedule:
+     - cron: "0 * * * *"  # every hour
   workflow_dispatch:
 
 jobs:
@@ -15,4 +15,4 @@ jobs:
         with:
           GH_USERNAME: Mukul2956
         env:
-          GITHUB_TOKEN: ${{ secrets.RECENT_ACTIVITY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.TOK }}
