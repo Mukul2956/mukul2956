@@ -19,5 +19,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukul2956&layout=compact)
 
 ## 🕒 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+
