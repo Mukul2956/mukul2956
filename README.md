@@ -45,7 +45,6 @@
 ---
 
 
-## ✨ Featured Projects
 
 
 ## 📫 Connect With Me
