@@ -50,8 +50,11 @@
 ## 📫 Connect With Me
 <p align="left">
 	<a href="mailto:mukulsinghbbsr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+	<a href="https://linkedin.com/in/mukul-singh-b83716239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+	<a href="mailto:mukulsinghbbsr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 	<a href="https://my-portfolio-sooty-seven-22.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
-	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+	<a href="https://leetcode.com/mukul2956/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+	<a href="https://www.codingninjas.com/codestudio/profile/2e2e2e2e2e2e2e2e2e2e2e2e" target="_blank"><img src="https://img.shields.io/badge/Code360-222?style=for-the-badge&logo=codestudio&logoColor=orange" /></a>
 </p>
 
 ---
