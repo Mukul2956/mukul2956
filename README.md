@@ -46,16 +46,12 @@
 
 
 ## ✨ Featured Projects
-- 🔥 **Rubik's Cube Solver**: [Repo Link](#)
-- 🚀 **AI/ML Demos**: [Repo Link](#)
-- 🎯 **React Portfolio**: [Repo Link](#)
 
----
 
 ## 📫 Connect With Me
 <p align="left">
-	<a href="https://linkedin.com/in/mukul-singh-b83716239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-	<a href="mailto:mukul2956@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+	<a href="mailto:mukulsinghbbsr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+	<a href="https://my-portfolio-sooty-seven-22.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
 	<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
 </p>
 
