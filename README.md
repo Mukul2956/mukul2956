@@ -44,11 +44,6 @@
 
 ---
 
-## 🕒 Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
 
 ## ✨ Featured Projects
 - 🔥 **Rubik's Cube Solver**: [Repo Link](#)
