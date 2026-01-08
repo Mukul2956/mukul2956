@@ -70,7 +70,7 @@
 ---
 
 <p align="center">
-	<img src="https://komarev.com/ghpvc/?username=Mukul2956&color=blue" />
+	<img src="https://komarev.com/ghpvc/?username=mukul2956&color=blue" alt="Profile Views" />
 </p>
 
 ---
