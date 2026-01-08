@@ -24,7 +24,7 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=mukul2956&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mukul2956&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 	<img src="https://streak-stats.demolab.com/?user=mukul2956&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
@@ -32,7 +32,7 @@
 
 ## 🧠 Top Languages
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukul2956&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mukul2956&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
