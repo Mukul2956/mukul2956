@@ -2,11 +2,11 @@ name: Update Recent Activity
 
 on:
   schedule:
-    - cron: "0 */6 * * *"  # Run every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write   # Required to push changes
+  contents: write
 
 jobs:
   update-readme:
@@ -16,28 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Configure Git
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
-
-      # The following step is removed:
-      # - name: Update README with recent activity
-      #   uses: jamesgeorge007/github-activity-readme@master
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      #   with:
-      #     COMMIT_MSG: "Update recent activity"
-      #     MAX_LINES: 5
-
-      - name: Prevent failure on no changes
-        run: |
-          if git diff --quiet; then
-            echo "No changes to commit"
-          else
-            git add README.md
-            git commit -m "Update recent activity"
-            git push
-          fi
+      - name: Update README with recent activity
+        uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.RECENT_ACTIVITY_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
