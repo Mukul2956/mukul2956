@@ -44,15 +44,6 @@
 
 ---
 
-## ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-
-
-
 ## 📫 Connect With Me
 <p align="left">
 	<a href="mailto:mukulsinghbbsr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
