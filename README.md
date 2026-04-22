@@ -70,6 +70,6 @@
 _Thanks for visiting! Have a great day!_ 😄
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Mukul2956/TT-Scheduler/pull/1) in [Mukul2956/TT-Scheduler](https://github.com/Mukul2956/TT-Scheduler)
-2. 💪 Opened PR [#1](https://github.com/Mukul2956/TT-Scheduler/pull/1) in [Mukul2956/TT-Scheduler](https://github.com/Mukul2956/TT-Scheduler)
+1. 🎉 Merged PR [#3](https://github.com/debashish17/TT-Scheduler/pull/3) in [debashish17/TT-Scheduler](https://github.com/debashish17/TT-Scheduler)
+2. 💪 Opened PR [#3](https://github.com/debashish17/TT-Scheduler/pull/3) in [debashish17/TT-Scheduler](https://github.com/debashish17/TT-Scheduler)
 <!--END_SECTION:activity-->
