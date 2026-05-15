@@ -3,26 +3,26 @@
 </p>
 
 ---
-## 🚀 About Me
+## About Me
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
 
-- 🔭 Currently working on: **Rubik's Cube Solver with OpenGL**
-- 🌱 Learning: **React, Deep Learning**
-- 💬 Ask me about: **C++, DSA, AI/ML**
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/mukul-singh-b83716239/)
-- 🏆 Fun Fact: I can solve a Rubik's Cube in under a minute!
-- ✨ Motto: "Code. Create. Innovate."
+-  Currently working on: **Rubik's Cube Solver with OpenGL**
+-  Learning: **React, Deep Learning**
+-  Ask me about: **C++, DSA, AI/ML**
+-  Reach me: [LinkedIn](https://linkedin.com/in/mukul-singh-b83716239/)
+-  Fun Fact: I can solve a Rubik's Cube in under a minute!
+-  Motto: "Code. Create. Innovate."
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 <p>
 	<img src="https://skillicons.dev/icons?i=cpp,python,react,js,nodejs,git,linux,opencv" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 <p align="center">
 	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mukul2956&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 	<img src="https://streak-stats.demolab.com/?user=mukul2956&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -30,14 +30,14 @@
 
 ---
 
-## 🧠 Top Languages
+##  Top Languages
 <p align="center">
 	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mukul2956&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏅 Achievements & Trophies
+##  Achievements & Trophies
 <p align="center">
 	<img src="https://github-trophies.vercel.app/?username=mukul2956&theme=tokyonight&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
 </p>
@@ -45,7 +45,7 @@
 ---
 
 
-## �📫 Connect With Me
+##  Connect With Me
 <p align="left">
 	<a href="mailto:mukulsinghbbsr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 	<a href="https://linkedin.com/in/mukul-singh-b83716239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
@@ -56,7 +56,7 @@
 
 ---
 
-## 🧠 Fun Fact
+##  Fun Fact
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
@@ -70,6 +70,6 @@
 _Thanks for visiting! Have a great day!_ 😄
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/debashish17/TT-Scheduler/pull/13) in [debashish17/TT-Scheduler](https://github.com/debashish17/TT-Scheduler)
-2. 💪 Opened PR [#13](https://github.com/debashish17/TT-Scheduler/pull/13) in [debashish17/TT-Scheduler](https://github.com/debashish17/TT-Scheduler)
+1.  Merged PR [#13](https://github.com/debashish17/TT-Scheduler/pull/13) in [debashish17/TT-Scheduler](https://github.com/debashish17/TT-Scheduler)
+2.  Opened PR [#13](https://github.com/debashish17/TT-Scheduler/pull/13) in [debashish17/TT-Scheduler](https://github.com/debashish17/TT-Scheduler)
 <!--END_SECTION:activity-->
