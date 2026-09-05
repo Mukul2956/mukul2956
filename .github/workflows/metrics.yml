@@ -18,12 +18,9 @@ jobs:
           user: Mukul2956
           filename: github-metrics.svg
           template: classic
-          base: "header, activity, community, metadata"
+          base: "header, activity, community"
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_habits: yes
+          plugin_languages_analysis_timeout: 90
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 2%
           config_timezone: Asia/Kolkata
