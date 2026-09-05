@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Mukul&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;C%2B%2B+%7C+DSA+%7C+AI%2FML+Enthusiast;Building+cool+things+with+OpenGL+%26+React" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;C%2B%2B+%7C+DSA+%7C+AI%2FML+Enthusiast;Building+with+React%2C+FastAPI+%26+Node.js" alt="Typing SVG" />
 
 <p>
   <a href="https://linkedin.com/in/mukul-singh29/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
