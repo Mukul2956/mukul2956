@@ -1,9 +1,22 @@
-<p align="center">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Mukul+Singh!;Welcome+to+my+GitHub+Profile!;Code.+Create.+Innovate." alt="Typing SVG" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Mukul%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Code.+Create.+Innovate.;C%2B%2B+%7C+DSA+%7C+AI%2FML+Enthusiast;Building+cool+things+with+OpenGL+%26+React" alt="Typing SVG" />
+
+<p>
+  <a href="https://linkedin.com/in/mukul-singh-b83716239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mukulsinghbbsr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://my-portfolio-sooty-seven-22.vercel.app"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Mukul2956&style=for-the-badge&color=f75c7e&label=PROFILE+VIEWS" />
 </p>
 
+</div>
+
 ---
+
 ## 🚀 About Me
+
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
 
 - 🔭 Currently working on: **Rubik's Cube Solver with OpenGL**
@@ -13,61 +26,71 @@
 - 🏆 Fun Fact: I can solve a Rubik's Cube in under a minute!
 - ✨ Motto: "Code. Create. Innovate."
 
+<br clear="right"/>
+
 ---
 
 ## 🛠️ Tech Stack
-<p>
-	<img src="https://skillicons.dev/icons?i=cpp,python,react,js,nodejs,git,linux,opencv" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,react,js,nodejs,git,linux,opencv" />
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Metrics
+
 <p align="center">
-	<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mukul2956&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-	<img src="https://streak-stats.demolab.com/?user=mukul2956&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Mukul2956/mukul2956/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
 ---
 
-## 🧠 Top Languages
+## 🐍 Contribution Graph
+
 <p align="center">
-	<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mukul2956&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mukul2956/mukul2956/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mukul2956/mukul2956/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Mukul2956/mukul2956/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </p>
 
 ---
 
 ## 🏅 Achievements & Trophies
+
 <p align="center">
-	<img src="https://github-trophies.vercel.app/?username=mukul2956&theme=tokyonight&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=mukul2956&theme=tokyonight&row=1&column=7&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 ---
 
+## 📫 Connect With Me
 
-## �📫 Connect With Me
 <p align="left">
-	<a href="mailto:mukulsinghbbsr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-	<a href="https://linkedin.com/in/mukul-singh-b83716239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-	<a href="https://my-portfolio-sooty-seven-22.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
-	<a href="https://leetcode.com/u/Mukul237/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-	<a href="https://www.naukri.com/code360/profile/8b3312bb-9f56-41aa-a944-8db5227824cf" target="_blank"><img src="https://img.shields.io/badge/Code360-222?style=for-the-badge&logo=codestudio&logoColor=orange" /></a>
+  <a href="mailto:mukulsinghbbsr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mukul-singh-b83716239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://my-portfolio-sooty-seven-22.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Mukul237/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.naukri.com/code360/profile/8b3312bb-9f56-41aa-a944-8db5227824cf" target="_blank"><img src="https://img.shields.io/badge/Code360-222?style=for-the-badge&logo=codestudio&logoColor=orange" /></a>
 </p>
 
 ---
 
 ## 🧠 Fun Fact
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+> "Code is like humor. When you have to explain it, it's bad." – Cory House
 
 ---
-
-<p align="center">
-	<img src="https://komarev.com/ghpvc/?username=mukul2956&color=blue" alt="Profile Views" />
-</p>
-
----
-
-_Thanks for visiting! Have a great day!_ 😄
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
+<div align="center">
+
+_Thanks for visiting! Have a great day!_ 😄
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+
+</div>
