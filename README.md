@@ -41,7 +41,7 @@
 ## GitHub Metrics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mukul2956/mukul2956/main/github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img src="https://raw.githubusercontent.com/Mukul2956/mukul2956/main/github-metrics.svg" alt="GitHub Metrics" width="700" />
 </p>
 
 ---
