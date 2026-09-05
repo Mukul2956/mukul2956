@@ -20,7 +20,7 @@
 <img align="right" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" />
 
 - Currently working on: **Rubik's Cube Solver with OpenGL**
-- Learning: **React, Deep Learning**
+- Learning: **Deep Learning, Cloud**
 - Ask me about: **C++, DSA, AI/ML**
 - Reach me: [LinkedIn](https://linkedin.com/in/mukul-singh29/)
 - Fun fact: I can solve a Rubik's Cube in under a minute!
@@ -33,7 +33,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,react,js,nodejs,git,linux,opencv" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,typescript,javascript,react,tailwind,nodejs,express,fastapi,graphql,mongodb,postgresql,redis,elasticsearch,docker,git,aws,firebase,supabase&perline=10" />
 </p>
 
 ---
@@ -70,7 +70,7 @@
 
 <p align="left">
   <a href="mailto:mukulsinghbbsr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mukul-singh-b83716239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://linkedin.com/in/mukul-singh29/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://mukul7-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Mukul237/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.naukri.com/code360/profile/8b3312bb-9f56-41aa-a944-8db5227824cf" target="_blank"><img src="https://img.shields.io/badge/Code360-222?style=for-the-badge&logo=codestudio&logoColor=orange" /></a>
