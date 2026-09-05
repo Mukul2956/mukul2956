@@ -23,5 +23,6 @@ jobs:
           plugin_languages_analysis_timeout: 90
           plugin_languages_limit: 6
           plugin_languages_threshold: 2%
+          plugin_languages_skipped: "vscode, vscode-copilot-chat"
           config_timezone: Asia/Kolkata
           config_display: compact
