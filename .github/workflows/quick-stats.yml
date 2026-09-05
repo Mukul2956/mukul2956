@@ -1,0 +1,68 @@
+name: Update Quick Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch stats and update README
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require("fs");
+
+            const query = `
+              query {
+                user(login: "Mukul2956") {
+                  contributionsCollection {
+                    totalPullRequestContributions
+                  }
+                  starredRepositories {
+                    totalCount
+                  }
+                  watching {
+                    totalCount
+                  }
+                }
+              }
+            `;
+
+            const result = await github.graphql(query);
+            const { contributionsCollection, starredRepositories, watching } = result.user;
+            const prsOpened = contributionsCollection.totalPullRequestContributions;
+            const starred = starredRepositories.totalCount;
+            const watchingCount = watching.totalCount;
+
+            const badges = [
+              `  <img src="https://img.shields.io/badge/Pull%20Requests%20Opened-${prsOpened}-blue?style=for-the-badge" />`,
+              `  <img src="https://img.shields.io/badge/Repos%20Starred-${starred}-yellow?style=for-the-badge" />`,
+              `  <img src="https://img.shields.io/badge/Watching-${watchingCount}-green?style=for-the-badge" />`,
+            ].join("\n");
+
+            const block = `<!--START_SECTION:quickstats-->\n${badges}\n<!--END_SECTION:quickstats-->`;
+
+            const readmePath = "README.md";
+            const readme = fs.readFileSync(readmePath, "utf8");
+            const updated = readme.replace(
+              /<!--START_SECTION:quickstats-->[\s\S]*?<!--END_SECTION:quickstats-->/,
+              block
+            );
+            fs.writeFileSync(readmePath, updated);
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update quick stats [skip ci]"
+          git push
