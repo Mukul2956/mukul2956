@@ -7,7 +7,7 @@
 <p>
   <a href="https://linkedin.com/in/mukul-singh-b83716239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mukulsinghbbsr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://my-portfolio-sooty-seven-22.vercel.app"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+  <a href="https://mukul7-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Mukul2956&style=for-the-badge&color=f75c7e&label=PROFILE+VIEWS" />
 </p>
 
@@ -71,7 +71,7 @@
 <p align="left">
   <a href="mailto:mukulsinghbbsr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mukul-singh-b83716239/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://my-portfolio-sooty-seven-22.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+  <a href="https://mukul7-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Mukul237/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.naukri.com/code360/profile/8b3312bb-9f56-41aa-a944-8db5227824cf" target="_blank"><img src="https://img.shields.io/badge/Code360-222?style=for-the-badge&logo=codestudio&logoColor=orange" /></a>
 </p>
@@ -80,11 +80,13 @@
 
 ## 🧠 Fun Fact
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 ---
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#13](https://github.com/debashish17/TT-Scheduler/pull/13) in [debashish17/TT-Scheduler](https://github.com/debashish17/TT-Scheduler)
+2. 💪 Opened PR [#13](https://github.com/debashish17/TT-Scheduler/pull/13) in [debashish17/TT-Scheduler](https://github.com/debashish17/TT-Scheduler)
 <!--END_SECTION:activity-->
 
 <div align="center">
