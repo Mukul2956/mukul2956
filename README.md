@@ -7,7 +7,7 @@
 <p>
   <a href="https://linkedin.com/in/mukul-singh29/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mukulsinghbbsr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://mukul7-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+  <a href="https://mukul-singh-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Mukul2956&style=for-the-badge&color=f75c7e&label=PROFILE+VIEWS" />
 </p>
 
@@ -79,7 +79,7 @@
 <p align="left">
   <a href="mailto:mukulsinghbbsr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/mukul-singh29/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://mukul7-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
+  <a href="https://mukul-singh-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-222?style=for-the-badge&logo=aboutdotme&logoColor=white" /></a>
   <a href="https://leetcode.com/u/Mukul237/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.naukri.com/code360/profile/8b3312bb-9f56-41aa-a944-8db5227824cf" target="_blank"><img src="https://img.shields.io/badge/Code360-222?style=for-the-badge&logo=codestudio&logoColor=orange" /></a>
 </p>
