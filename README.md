@@ -47,7 +47,7 @@
 <p align="center">
 <!--START_SECTION:quickstats-->
   <img src="https://img.shields.io/badge/Pull%20Requests%20Opened-10-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Repos%20Starred-5-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repos%20Starred-4-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Watching-2-green?style=for-the-badge" />
 <!--END_SECTION:quickstats-->
 </p>
